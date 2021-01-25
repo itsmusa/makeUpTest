@@ -1,0 +1,32 @@
+31
+4599589359399, For the Record, David Cameron, politics, 340.0
+1751912213415, How to Win Friends and Influence People, Dale Carnegie, self-help, 660.0
+4777519539973, A Promised Land, Barack Obama, biography, 799.0
+6714931786321, As Sure as The Dawn, Francine Rivers, christian fiction, 629.0
+9459422537399, The Lost Colours of the Chameleon, Mandla Langa, fiction, 610.0
+7462771536812, Soar, T.D. Jakes, christian, 319.0
+2981882341282, Good to Great, Jim Collins, business, 410.0
+7749155355426, Object-Oriented Analysis and Design, Grady Booch, programming, 139.0
+3735388923446, Teaching in Extended Programmes in South Africa, Lynn Coleman (Ed.), higher education, 540.0
+9856448122525, Finding Church, Wayne Jacobson, christian, 520.0
+6277476838919, Disgrace, J.M. Coetzee, fictio, 289.0
+7414337541446, The Tipping Point, Malcolm Gladwell, non-fiction, 580.0
+1781963178481, Bassie, Basetsana Kumalo, biography, 380.0
+9986954497938, Things Fall Apart, Chinua Achebe, fiction, 130.0
+3464467574212, My Own Liberator, Dikgang Moseneke, biography, 639.0
+2583674192623, The Elements of Style, William Strunk Jr. & E.B. White, writing, 249.0
+8627358499826, All the King�s Men, Robert Penn Warren, fiction, 240.0
+7947835547841, Win!, Jeremy Maggs, non-fiction,669.0
+5832281922431, The Husband�s Secret, Liane Moriarty, fiction, 419.0
+3419882255821, A Headmaster�s Story, Bill Schroder, biography, 320.0
+7422211972515, 100 Ways to Improve Your Writing, Gary Provost, writing, 539.0
+8621294541389, Betting on a Darkie, Mteto Nyati, biography, 420.0
+9923121289497, Waiting for the Barbarians, J.M. Coetzee, fiction, 419.0
+7411193974787, The President is Missing, Bill Clinton & James Patterson, fiction, 250.0
+5652444979646, How to Solve It, George Polya, non-fiction, 569.0
+3494861737657, Beginning App Development with Flutter, Rap Payne, programming, 280.0
+6285166234279, Rage, Bob Woodward, politics, 350.0
+1266436263839, Writing Down the Bones, Natalie Goldberg, writing, 190.0
+5519211338683, Race Otherwise, Zimitri Erasmus, non-fiction, 130.0
+6395625121868, Dear Committee Members, Julie Schumacher, fiction, 150.0
+9237982268954, Do The Work, Steven Pressfield, writing, 289.0
